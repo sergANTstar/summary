@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;600&display=swap');
+
+body {
+    display: flex;
+    margin: auto;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 300;
+    padding-left: 30px;
+    padding-right: 200px;
+}
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    padding-left: 10px;
+    box-shadow: 5px 5px 10px rgb(96, 85, 85);
+}
+
+h1 {
+    background-color: rgb(96, 85, 85);
+    color: rgb(255, 255, 255);
+    font-size: 59px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    padding-top: 53px;
+    padding-left:73px;  
+}
+
+.project-title {
+    background-color: rgb(8, 138, 28);
+    color: rgb(255, 255, 255);
+    font-size: 33px;
+    padding-left: 73px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    line-height: 50px;
+}
+
+.project-title1 {
+        background-color: rgb(8, 138, 28);
+        color: rgb(255, 255, 255);
+        padding-left: 50px;
+        font-family: 'Nunito Sans', sans-serif;
+        font-weight: 300;
+}
+
+.header {
+    background-color: rgb(96, 85, 85);
+    color: rgb(255, 255, 255);
+    padding-left: 50px;
+}
+
+.arches-and-numbers {
+    font-size: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    color: rgb(13, 185, 39);
+}
+.arches-and-numbers1 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    color: rgb(8, 138, 28);
+}
+
+.titles-skills {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 300;
+    color: black;
+
+}
+.paragraf-item {
+    color: rgb(13, 185, 39);
+}
+
+.paragraf-item1 {
+    color: rgb(13, 185, 39);
+    padding-left: 30px;
+}
+
+.titles-main {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 300;
+    padding-left: 10px;
+    color: black;
+}
+
+.titles {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 300;
+    padding-left: 10px;
+    color: black;
+}
+
+.link {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    padding-left: 10px;
+    color: rgb(46, 42, 42);
+}
+.link:hover,
+.link:focus {
+       color: rgb(37, 23, 165);
+}
+
+.link:active {
+    color: rgb(204, 53, 53);
+}
+
+
+h4 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    padding-left: 10px;
+    color: black;
+}
+
+.sidebar { 
+    background:rgb(96, 85, 85);
+    padding-top: 40px;
+    margin-left: 23px;
+    width: 450px;
+
+       
+}
+
+.img {
+    display: block;
+    width: 250px;
+    border-radius: 50%;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.skills-title {
+    color: beige;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-top: 40px;
+    padding-left: 30px;
+}
+
+.contacts {
+    color: beige;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    padding-left: 30px;
+}
+
+.contacts-text{
+    color: rgb(255, 255, 255);
+    padding: 0;
+    margin-left: 15px;
+    padding-left: 0px;
+}
+
+.skils {
+    color: rgb(255, 255, 255);
+    padding: 0;
+    margin-left: 15px;
+    padding-left: 30px;
+    line-height: 40px;
+}
+
+.tech-skills-text {
+    color: rgb(255, 255, 255);
+}
+
+.tech-skills-item {
+    color: rgb(13, 185, 39);
+}
